@@ -1,6 +1,3 @@
-path <- "/home/manish/Desktop/ML_Challenge_Creatives/Challenge #2 Data/kickstarter/comp_data/final_data/download_data/3149def2-5-datafiles/"
-setwd(path)
-
 # load data and libraries
 
 library(data.table)
