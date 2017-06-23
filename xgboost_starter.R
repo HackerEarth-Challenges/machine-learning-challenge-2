@@ -181,7 +181,7 @@ big_pred <- predict(big_train, dtest)
 big_pred <- ifelse(big_pred > 0.5,1,0)
 
 sub <- data.table(project_id = test$project_id, final_status = big_pred)
-fwrite(sub, "xgb_with_feats.csv") #0.703
+fwrite(sub, "xgb_with_feats.csv") #0.70
 
 
 
