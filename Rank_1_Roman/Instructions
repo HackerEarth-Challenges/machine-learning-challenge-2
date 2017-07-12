@@ -1,0 +1,6 @@
+To reproduce the final submission file:
+
+1. Run first_model.py
+2. start.py
+
+Note: Keep mean_evaluation.py in the same directory as the files above.
